@@ -1,8 +1,8 @@
-## Hi there 👋
+## yo
 
-I'm YeahhColix, but you can call me colix.<br>I also own the GDPS, [PrismGDPS](https://github.com/prismgdps)!
+hi i am me and i do the stuff<br>im the co-owner of atlas gdps, that's the only thing i have done at this point
 
-### Stats 
+### stats that nobody cares about
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=yeahhcolix)
