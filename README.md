@@ -5,18 +5,20 @@ hi!<br>i'm **cyolix**. $$\textsf{\color{gray}(or colix if you still call me that
 
 ### stats that nobody cares about
 
-
-![Profile views](https://komarev.com/ghpvc/?username=cyolix)
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=cyolix&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=cyolix&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<div align="center"> <!-- wow you can center a div thats crazy! -->
+<img src="https://komarev.com/ghpvc/?style=for-the-badge&color=blueviolet&username=cyolix" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyolix&theme=github_dark"
+  alt="profile summary"
+  width="100%"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyolix&theme=github_dark" alt="Repositories per language" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyolix&theme=github_dark"
+  alt="GitHub statistics"
+  height="165"
+/>
+<br>
+<br>
+</div>
 
 <!--
 **cyolix/cyolix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
