@@ -1,6 +1,7 @@
-## yo
+## hi!
 
-hi.<br>I **have** to figure out what to put in here someday.
+hi!<br>i'm **cyolix**. $$\textsf{\color{gray}(or colix if you still call me that)}$$
+<br>i do stuff here occasionally. my current project is **[AtlasGDPS](https://github.com/atlasgdps)**! it's a geometry dash private server.
 
 ### stats that nobody cares about
 
